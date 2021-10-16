@@ -148,3 +148,9 @@ C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\Razor\Views\PersonNT77\Delete.cshtml
 C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\Razor\Views\PersonNT77\Details.cshtml.g.cs
 C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\Razor\Views\PersonNT77\Edit.cshtml.g.cs
 C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\Razor\Views\PersonNT77\Index.cshtml.g.cs
+C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\NTHanh777.csproj.AssemblyReference.cache
+C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\Razor\Views\NVN123\Create.cshtml.g.cs
+C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\Razor\Views\NVN123\Delete.cshtml.g.cs
+C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\Razor\Views\NVN123\Details.cshtml.g.cs
+C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\Razor\Views\NVN123\Edit.cshtml.g.cs
+C:\MVC\NTHanh777\NTHanh777\obj\Debug\net5.0\Razor\Views\NVN123\Index.cshtml.g.cs

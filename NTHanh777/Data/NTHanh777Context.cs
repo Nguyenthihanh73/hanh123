@@ -15,5 +15,7 @@ namespace NTHanh777.Data
         }
 
         public DbSet<NTHanh777.Models.PersonNT77> PersonNT77 { get; set; }
+
+        public DbSet<NTHanh777.Models.NVN123> NVN123 { get; set; }
     }
 }

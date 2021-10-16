@@ -2,15 +2,17 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using NTHanh777.Data;
 
 namespace NTHanh777.Migrations
 {
     [DbContext(typeof(NTHanh777Context))]
-    partial class NTHanh777ContextModelSnapshot : ModelSnapshot
+    [Migration("20211016081508_Create_Table")]
+    partial class Create_Table
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
